@@ -1,0 +1,8 @@
+ /*這裡面寫CSS的語法*/
+ span{font-weight:bold}
+ #del{text-decoration:line-through}
+ .all{background-color:#cccccc;font-family:"微軟正黑體"}
+ .title{font-size:50px;font-weight: bolder;border:8px dashed yellow;width:700px}
+ .keyword{style=color:red}
+ .w{width:500px;margin-top:400px;border:8px dashed blue;padding:50px}
+ .underline{text-decoration:underline}
